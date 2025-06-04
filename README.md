@@ -7,4 +7,5 @@ Life expectancy can vary significantly over time and across different countries 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Machine learning was not applied in this project.
+Machine learning was not applied in this project. 
+This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
