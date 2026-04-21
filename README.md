@@ -7,7 +7,5 @@ Life expectancy can vary significantly over time and across different countries 
 
 **The Data:** The dataset contains information about life expectancy in various countries or areas, broken down by gender and time periods. The data is sourced from the _United Nations Population Division, Gender Statistics, Life Expectancy at Birth_.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project. 
+This project was done in June, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
