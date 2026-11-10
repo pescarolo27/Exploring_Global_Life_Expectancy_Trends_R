@@ -16,7 +16,7 @@ Before then, the data was examined to look for inconsistencies, particularly mis
 #### Life Expectancy by Gender
 Firstly, life expectancies of males & females were evaluated overall during this time period to look for more general differences & trends that may be more indicative of biological or habitual differences between these genders.
 
-Of the 195 countries with data points for both genders during this 2000-2005 period, the typical life expectancy of females & males was around 72 & 66 years respectively. Other statistics in these distributions also corroborate this trend.  
+Of the 195 countries with data points for both genders during this 2000-2005 period, the typical life expectancy of females & males was around 72 & 66 years respectively. Other statistical quantities in these distributions also corroborate this trend.  
 Additional analyses determined for how many countries one gender had a higher usual life expectancy as well as the average difference. 190 countries reported that females typically lived longer than males, whereas only one country reported the opposite. The average discrepancy in life expectancy of these 190 countries was nearly five years.
 
 As such, it is evident that females typically lived longer than males across most of the globe during 2000-2005.
