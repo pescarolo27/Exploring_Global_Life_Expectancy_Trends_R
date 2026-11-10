@@ -5,7 +5,7 @@ The _United Nations_ has established an initiative focused on understanding glob
 
 **The Data:** The dataset contains information about life expectancy in various countries or areas broken down by gender and time periods. The data is sourced from the _United Nations Population Division, Gender Statistics, Life Expectancy at Birth_.
 
-This project was done in June, 2025. As an important note, this project is coded for a R environment. Files were attached both for code based in R as well as a project write-up done in Python containing code meant for R. Running the Python note book will produce errors in the code cells & destroy the results that are currently contained in it.
+This project was done in June, 2025. As an important note, this project is coded for a R environment. Files were attached both for code based in R as well as a project write-up done in Python containing code meant for R. The R files correspond to the three main analysis sections in the Python file (e.g. "q1.R" relates to **Analysis I**). Running the Python notebook will produce errors in the code cells & destroy the results that are currently contained in it.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
